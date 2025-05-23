@@ -1,33 +1,24 @@
 <h1 align="center">Hi 👋, I'm Sayan Adhikary</h1>
-<h3 align="center">Full-Stack Developer (MERN) | 3x Hackathon Winner | Blockchain Enthusiast</h3>
+<h3 align="center">Full-Stack Developer (MERN) | Blockchain Enthusiast | B.Tech CSE</h3>
+<br>
 
----
 
 - 🌱 I’m currently diving deeper into **Blockchain Development**
-- 🏆 3x **Hackathon Champion** – problem solver & rapid prototyping ninja
-- 📫 Reach me at: **sayanadhikary2017@gmail.com**
-- 📝 Check out my resume: [Click Here](https://sayanadhikary.tiiny.site/)
 
----
+- 🏆 3x **Hackathon Champion** – problem solver & rapid prototyping ninja
+
+- 📫 Reach me at: **sayanadhikary2017@gmail.com**
+  
+- 📝 Check out my resume: [Click Here](https://sayanadhikary.tiiny.site/)
+<br>
 
 ### 🌐 Connect with me
 
-<p>
-  <a href="https://www.linkedin.com/in/sayanadk" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
-  </a>
-  <a href="https://instagram.com/reejouu" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35"/>
-  </a>
-  <a href="https://twitter.com/reejouu" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="35"/>
-  </a>
-  <a href="https://discord.com/users/reejouu" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="35"/>
-  </a>
+<a href="https://twitter.com/reejouu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d_gupta_05" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sayanadk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dg2805" height="30" width="40" /></a>
+<a href="https://instagram.com/reejouu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d_gupta_05" height="30" width="40" /></a>
+<a href="https://discord.com/users/755631378397265951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="d_gupta_05" height="30" width="40" /></a>
 </p>
-
----
 
 ### 🧰 Tech Stack & Tools
 
@@ -66,12 +57,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35"/>
 </p>
 
----
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reejouu&theme=radical&hide_border=true&stroke=0000&background=00000000" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reejouu&theme=blueberry&hide_border=true&stroke=0000&background=00000000" alt="GitHub Streak"/>
 </p>
 
 ---
