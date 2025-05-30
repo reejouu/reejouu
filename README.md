@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently diving deeper into **Blockchain Development**
 
-- 🏆 3x **Hackathon Champion** – problem solver & rapid prototyping ninja
+- 🏆 3x **Hackathon Winner** – problem solver & rapid prototyping ninja
 
 - 📫 Reach me at: **sayanadhikary2017@gmail.com**
   
