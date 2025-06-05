@@ -64,6 +64,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=reejouu&theme=blueberry&hide_border=true&stroke=0000&background=00000000" alt="GitHub Streak"/>
 </p>
 
----
 
-<p align="center"><em>“Code what you can’t stop thinking about.” ✨</em></p>
